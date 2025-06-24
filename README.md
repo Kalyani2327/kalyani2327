@@ -11,7 +11,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/kalyani-panga-687626255/" target="_blank">
+<a href="https://www.linkedin.com/in/kalyani-panga-687626255/" target="_self">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Profile"/>
 </a>
 
@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalyani2327&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani2327&layout=compact&theme=radical)
 
 ---
 
