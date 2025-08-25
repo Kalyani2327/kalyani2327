@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 - 🤝 I’m looking to collaborate with **Full-Stack Developers**
-- 💬 Ask me about **HTML, CSS, JS, PYTHON**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL**
 - 📫 Reach me: **kalyanipanga99@gmail.com**
 
 ---
