@@ -6,21 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kalyani2327
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
