@@ -13,7 +13,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: akhilesh112606
+          github_user_name: kalyani2327
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
